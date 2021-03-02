@@ -16,19 +16,19 @@ export const colors = {
   },
   primary: {
     main: {
-      color: '#6C63FF',
+      color: '#4caf50',
       contrastText: 'white',
     },
   },
   secondary: {
     main: {
-      color: '#4b45b2',
+      color: '#232323',
       contrastText: '#fff',
     },
   },
   tertiary: {
     main: {
-      color: '#070C0E',
+      color: '#357a38',
       contrastText: '#fff',
     },
     light: {
